@@ -10,7 +10,10 @@
 <ul>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> One</li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Two</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Three</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Three<br>
+| A | B |<br>
+|–|--|<br>
+| C | D |</li>
 </ul>
 <blockquote>
 <p>TEST IT</p>
